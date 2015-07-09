@@ -1,5 +1,5 @@
 /**
- * Ionic Flipcard
+ * Angular Flipcard
  *
  * author: 		Luis Carlos Osorio Jayk
  * authorEmail: luiscarlosjayk@gmail.com
